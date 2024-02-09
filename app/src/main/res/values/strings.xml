@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab03</string>
+    <string name="InfoFrom">From:</string>
+    <string name="InfoTo">To:</string>
+    <string name="InputText" />
+    <string name="btnConvert">Convert</string>
+    <string name="OutText" />
+</resources>
